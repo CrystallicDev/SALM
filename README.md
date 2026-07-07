@@ -7,6 +7,7 @@
 [![Cristallite](https://img.shields.io/badge/Cristallite-Mod_Collection-darkgreen)](https://google.com)
 [![Modrinth](https://img.shields.io/modrinth/dt/salm)](https://modrinth.com/mod/salm)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nqtsu91)
 
 > This mod is a member of the **Cristallite Mod Collection**, see SALM and my other mods docs / wiki [here](https://google.com).
 
@@ -28,6 +29,3 @@
 ## Usage
 Feel free to integrate SALM in any of your modpacks, or create new versions of this mod. However, any redistributed version, modified or not, must stay fully free, and keep a link to the original.
 
-## Support 
-If you want (and can) support me, please consider donating on Ko-Fi !
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nqtsu91)
