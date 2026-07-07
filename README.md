@@ -27,3 +27,7 @@
 
 ## Usage
 Feel free to integrate SALM in any of your modpacks, or create new versions of this mod. However, any redistributed version, modified or not, must stay fully free, and keep a link to the original.
+
+## Support 
+If you want (and can) support me, please consider donating on Ko-Fi !
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nqtsu91)
