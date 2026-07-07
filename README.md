@@ -8,7 +8,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/salm)](https://modrinth.com/mod/salm)
 
 
-> This mod is a member of the **Cristallite Mod Collection**, see Elixirs and my other mods docs / wiki [here](https://google.com).
+> This mod is a member of the **Cristallite Mod Collection**, see SALM and my other mods docs / wiki [here](https://google.com).
 
 </div>
 
